@@ -6,11 +6,8 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🔭 I’m still pursuing MCA at VIT University
-
-- 👨‍💻 I’m currently working as an Advisory Intern at Deloitte
-
-- 🌱 I’m currently learning Data Science
+- 👨‍💻 I’m currently working as an Software Engineer at Deloitte
+- 🌱 Focusing on learning new stuffs 
 - 📫 How to reach me <b>charupapa010@gmail.com</b>
 
 ## Connect with me:
