@@ -8,11 +8,10 @@
 
 - 👨‍💻 I’m currently working as an Software Engineer at Deloitte
 - 🌱 Focusing on learning new stuffs 
-- 📫 How to reach me <b>charupapa010@gmail.com</b>
+- 📫 How to reach me <b>charuashok125@gmail.com</b>
 
 ## Connect with me:
 
 <a href = "https://www.linkedin.com/in/charu-ashok-4416231b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/_d._i_.a_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
